@@ -1,6 +1,15 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+## Описание сайта
+
+Сайт, который при каждом заходе пользователя выдает по одной фразе из списка.
+Сайт доступен по [адресу](https://ilya14.github.io/20_mood/index.html).
+
+## Описание директории сайта
+
+Директория сайта состоит из следующих папок:
+* js - файлы с кодом на JavaScript;
+* css - файлы со css-стилями.
 
 # Project Goals
 
