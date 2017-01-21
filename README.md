@@ -1,14 +1,14 @@
 # Site for the Mood
 
-## Описание сайта
+## Site Description
 
-Сайт, который при каждом заходе пользователя выдает по одной фразе из списка.
-Сайт доступен по [адресу](https://ilya14.github.io/20_mood/index.html).
+This site is for each user entry gives one a funny phrase from the list.
+The site is available at [address](https://ilya14.github.io/20_mood/index.html).
 
-## Описание директории сайта
+## Site Directory Description
 
-Директория сайта состоит из следующих папок:
-* css - файлы со css-стилями.
+Site directory contains only one folder:
+* css - files with css-styles.
 
 # Project Goals
 
